@@ -1,5 +1,5 @@
 <p>Name: Pavel Martinez</p>
-<p>PHP OOP REST API<p>
+<p>Project Title: PHP OOP REST API<p>
 <p>
   Description: This project demonstrates my ability to build a PHP-based object-oriented REST API
   for managing quotations, supporting full CRUD operations via GET, POST, PUT, and
