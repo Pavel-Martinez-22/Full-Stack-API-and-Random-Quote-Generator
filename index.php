@@ -3,12 +3,12 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Random Quote Generator API</title>
+    <title>Quote Generator API</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
 
   <body>
-    <h1>Random Quote Generator API</h1>
+    <h1>Quote Generator PHP OOP REST API</h1>
 
     <!-- Project description -->
     <p>

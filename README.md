@@ -1,14 +1,20 @@
-<p>Name: Pavel Martinez</p>
-<p>Project Title: PHP OOP REST API<p>
-<p>
-  Description: This project demonstrates my ability to build a PHP-based object-oriented REST API
-  for managing quotations, supporting full CRUD operations via GET, POST, PUT, and
-  DELETE requests. The backend was developed using PHP and PostgreSQL, with
-  environment variables for secure configuration, and deployed to Render after local
-  testing with Postman and XAMPP. On the frontend, I used JavaScript, PHP, and CSS to
-  fetch and display JSON data returned by the API. JavaScript handles asynchronous
-  requests and dynamically injects the content into the appropriate HTML elements. To
-  streamline deployment and ensure consistency across environments, I containerized
-  the entire application using Docker and deployed it as a web service.
-</p>
-<p>Website link: https://full-stack-api-and-random-quote-generator.onrender.com/</p>
+# Name: Pavel Martinez
+
+## Project Title: Quote Generator PHP OOP REST API
+
+## Description
+
+This project demonstrates my ability to design and implement a **PHP-based, object-oriented RESTful API** for managing quotations, authors, and categories.
+
+The API supports full **CRUD operations** using `GET`, `POST`, `PUT`, and `DELETE` requests and consistently returns **JSON responses** for client consumption.
+
+The backend was built using **PHP and PostgreSQL**, with **environment variables** used for secure configuration. Development and testing were completed locally using **XAMPP** and **Postman** prior to deployment.
+
+To ensure consistency across environments and streamline deployment, the application was **containerized using Docker** and deployed as a web service on **Render**. A frontend **Random Quote Generator** application consumes this API to dynamically display quotes to users.
+
+## Live Website
+
+<a href="https://full-stack-api-and-random-quote-generator.onrender.com/" target="_blank" rel="noopener noreferrer">
+  Quote Generator PHP OOP REST API
+</a>
+``
