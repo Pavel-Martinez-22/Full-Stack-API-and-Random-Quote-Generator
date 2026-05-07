@@ -1,0 +1,33 @@
+/* style.css */
+
+/* Base body styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Heading spacing */
+h1,
+h2 {
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+/* Paragraph spacing */
+p {
+  margin-bottom: 20px;
+}
+
+/* List styling */
+ul {
+  margin-bottom: 30px;
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+li {
+  margin-bottom: 10px;
+}
