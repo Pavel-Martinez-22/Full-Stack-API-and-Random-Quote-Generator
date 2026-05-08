@@ -15,6 +15,5 @@ To ensure consistency across environments and streamline deployment, the applica
 ## Live Website
 
 <a href="https://full-stack-api-and-random-quote-generator.onrender.com/" target="_blank" rel="noopener noreferrer">
-  Quote Generator PHP OOP REST API
+  View Project
 </a>
-``
